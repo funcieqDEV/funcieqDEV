@@ -1,5 +1,5 @@
-discord: funcieq
-youtube channel: funcieq
-favorite programming language is C#
-I live in Poland 
+discord: funcieq<br>
+youtube channel: funcieq<br>
+favorite programming language is C#<br>
+I live in Poland<br>
 

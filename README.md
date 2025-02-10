@@ -1,7 +1,7 @@
 
 i program in C#
 <br>
-i am working on my own programing language called V#
+i am working on my own programing language called V# and QuiScript
 <br>
 YT: Funcieq<br>
 Discord: funcieq
@@ -15,7 +15,8 @@ Discord: funcieq
     srcset="https://github-readme-stats.vercel.app/api?username=funcieqDEV&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=funcieqDEV&show_icons=true" />
+  <
+img src="https://github-readme-stats.vercel.app/api?username=funcieqDEV&show_icons=true" />
 </picture>
 
 <br>

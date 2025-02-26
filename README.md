@@ -7,10 +7,7 @@ YT: Funcieq<br>
 Discord: funcieq
 
 <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=funcieqDEV&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
+  <img src  ="https://github-readme-stats.vercel.app/api?username=funcieqDEV&show_icons=true&theme=tokyonight"/>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=funcieqDEV&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"

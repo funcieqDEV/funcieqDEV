@@ -1,7 +1,5 @@
 
-i program in C#
-<br>
-i am working on my own programing language called V# and QuiScript
+Check out 💎 Atra 💎
 <br>
 YT: Funcieq<br>
 Discord: funcieq
